@@ -3,7 +3,7 @@
 import React, { useState, useEffect } from "react";
 import styles from "./MainImage.module.css"
 
-export default function image() {
+export default function MainImage() {
 
     const images = [
         "https://img.freepik.com/free-photo/beautiful-landscape-of-ukrainian-carpathian-mountains-and-cloudy-sky_176420-7166.jpg?size=626&ext=jpg",
