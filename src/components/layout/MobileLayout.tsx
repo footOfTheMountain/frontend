@@ -2,8 +2,8 @@
 
 import React, { ReactNode } from 'react';
 import styles from './MobileLayout.module.css';
-import LayoutHeader from '@components/header';
-import LayoutFooter from '@components/footer';
+import LayoutHeader from '@components/layout/header';
+import LayoutFooter from '@components/layout/footer';
 
 interface MobileLayoutProps {
     children: ReactNode;

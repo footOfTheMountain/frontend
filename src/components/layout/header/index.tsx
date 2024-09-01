@@ -1,6 +1,6 @@
 "use client"
 import { useRouter } from 'next/navigation';
-import styles from '../layout/MobileLayout.module.css';
+import styles from '../MobileLayout.module.css';
 
 const LayoutHeader = () => {
     const route = useRouter();

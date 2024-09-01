@@ -1,4 +1,4 @@
-import styles from '../layout/MobileLayout.module.css';
+import styles from '../MobileLayout.module.css';
 
 const LayoutFooter = () => {
     return (
