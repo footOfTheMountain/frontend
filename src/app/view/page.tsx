@@ -3,9 +3,7 @@ import React from "react";
 
 const View: React.FC = () => {
     return (
-        <MobileLayout>
-            <h2>View Page</h2>
-        </MobileLayout>
+        <h2>View Page</h2>
     );
 };
 
