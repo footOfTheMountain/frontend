@@ -1,6 +1,9 @@
 ## Getting Started
 
 * Local / Dev / Prod 실행 방법
+* local : localhost:3000
+* dev : localhost:4000
+* prd : localhost:5000
 
 ## Local 환경
 **localhost:8080 서버와 연결**
