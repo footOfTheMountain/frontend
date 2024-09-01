@@ -1,5 +1,5 @@
+import MobileLayout from "@components/layout/MobileLayout";
 import React from "react";
-import MobileLayout from "../global/MobileLayout";
 
 const Community: React.FC = () => {
     return (
