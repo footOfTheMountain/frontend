@@ -1,0 +1,26 @@
+.container {
+    cursor: pointer;
+}
+
+.near-font {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.recommend-font {
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 15px;
+}
+
+.picture {
+    display:flex;
+    align-content: center;
+    justify-content: space-between;
+    margin-top: 4px;
+}
+
+.mountain-image {
+    border-radius: 1em;
+    width: 32%;
+}
