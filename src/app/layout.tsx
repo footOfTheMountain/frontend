@@ -7,9 +7,9 @@ import MobileLayout from "@components/layout/MobileLayout";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Foot Of The Mountain",
+  title: "FOTM",
   description: "등산로 추천 페이지",
-  applicationName: "FOTM",
+  applicationName: "Foot Of The Mountain",
 };
 
 export default function RootLayout({
